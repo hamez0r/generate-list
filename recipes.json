@@ -1,0 +1,77 @@
+{
+	"recipes": [
+		{
+			"name": "nacho chicken casserole",
+			"ingredients": [
+				{ "name": "Chicken Thighs", "quantity": "1.75 lbs" },
+				{ "name": "Chili Seasoning", "quantity": "1.5 tsp" },
+				{ "name": "Olive Oil", "quantity": "1 tbsp" },
+				{ "name": "Cream Cheese", "quantity": "4 oz" },
+				{ "name": "Cheddar Cheese", "quantity": "4 oz" },
+				{ "name": "Green Chilies and Tomatoes", "quantity": "1 cup" },
+				{ "name": "Parmesan Cheese", "quantity": "3 tbsp" },
+				{ "name": "Sour Cream", "quantity": "0.25 cup" },
+				{ "name": "Jalapeno Pepper", "quantity": "1" }
+			]
+		},
+		
+		{
+			"name": "nacho steak skillet",
+			"ingredients": [
+				{ "name": "Beef", "quantity": "8 oz" },
+				{ "name": "Chili powder", "quantity": "1 tsp" },
+				{ "name": "Butter", "quantity": "1 tbsp" },
+				{ "name": "Turmeric", "quantity": "0.5 tsp" },
+				{ "name": "Cheddar Cheese", "quantity": "1 oz" },
+				{ "name": "Jalapeno Pepper", "quantity": "1" },
+				{ "name": "Sour Cream", "quantity": "1 cup" },
+				{ "name": "Avocado", "quantity": "1" },
+				{ "name": "Lime", "quantity": "1" }
+			]
+		},
+
+		{
+			"name": "hot chili soup",
+			"ingredients": [
+				{ "name": "Coriander Seeds", "quantity": "1 tsp" },
+				{ "name": "Olive Oil", "quantity": "2 tbsp" },
+				{ "name": "Jalapeno Pepper", "quantity": "2" },
+				{ "name": "Chicken Broth", "quantity": "2 cups" },
+				{ "name": "Turmeric", "quantity": " tsp" },
+				{ "name": "Tomato Paste", "quantity": "4 tbsp" },
+				{ "name": "Chicken Thighs", "quantity": "1 lbs" },
+				{ "name": "Butter", "quantity": "2 tbsp" },
+				{ "name": "Avocado", "quantity": "1" },
+				{ "name": "Queso Fresco", "quantity": "2 oz" },
+				{ "name": "Fresh Cilantro", "quantity": "4 tbsp" },
+				{ "name": "Lime", "quantity": "0.5" }
+			]
+		},
+
+		{
+			"name": "Jalapeno Bacon Cheddar Soup",
+			"ingredients": [
+				{ "name": "Bacon", "quantity": "0.5 lbs"},
+				{ "name": "Jalapeno Pepper", "quantity": "1"},
+				{ "name": "Butter", "quantity": "4 tbsp"},
+				{ "name": "Garlic Powder", "quantity": "1 tsp"},
+				{ "name": "Onion Powder", "quantity": "1 tsp"},
+				{ "name": "Heavy Cream", "quantity": "0.75 cup"},
+				{ "name": "Cheddar Cheese", "quantity": "8 oz"}
+			]
+		},
+
+		{
+			"name": "Broccoli Chicken Zucchini Boats",
+			"ingredients": [
+				{ "name": "Zucchini", "quantity": "20 oz"},
+				{ "name": "Butter", "quantity": "2 tbsp"},
+				{ "name": "Cheddar Cheese", "quantity": "3 oz"},
+				{ "name": "Broccoli", "quantity": "1 cup"},
+				{ "name": "Rotisserie Chicken", "quantity": "6 oz"},
+				{ "name": "Sour Cream", "quantity": "0.5 cup"},
+				{ "name": "Green Onion", "quantity": "1"}
+			]
+		}
+	]
+}
